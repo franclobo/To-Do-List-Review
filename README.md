@@ -4,6 +4,11 @@ It is a copy from To Do List to review.
 # To-Do-list
 
 In this project, I will build a simple HTML list of To Do tasks. The list will be styled according to the specifications listed later in this lesson. This simple web page will be built using webpack and served by a webpack dev server.
+This code is based on the videos: 
+- https://www.youtube.com/watch?v=ePzOFu2xXUQ
+- https://www.youtube.com/watch?v=MkESyVB4oUw&t=1904s 
+
+And adapted to the Microverse requirements.
 
 ## Built With
 
